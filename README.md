@@ -33,6 +33,6 @@ Através de uma abordagem divertida e educativa, o jogo busca criar um impacto p
 ---
 ## Deploy
 
-O projeto está disponível em [Binary](sthrmzy.github.io/Binary/) para visualização.
+O projeto está disponível em [Binary](https://sthrmzy.github.io/Binary/) para visualização.
 
 
