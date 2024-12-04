@@ -30,6 +30,10 @@ Através de uma abordagem divertida e educativa, o jogo busca criar um impacto p
 - **CSS3** – Estilização e design responsivo.
 - **JavaScript** – Interatividade e animações.
 
+## Preview
+
+![Binary](https://github.com/sthrmzy/Binary/blob/main/images/preview.jpeg)
+
 ---
 ## Deploy
 
