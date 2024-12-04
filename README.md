@@ -32,7 +32,7 @@ Através de uma abordagem divertida e educativa, o jogo busca criar um impacto p
 
 ## Preview
 
-![Binary](https://github.com/sthrmzy/Binary/blob/main/images/preview.jpeg)
+![Binary](https://github.com/sthrmzy/Binary/blob/main/images/preview2.jpeg)
 
 ---
 ## Deploy
