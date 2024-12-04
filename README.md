@@ -31,5 +31,8 @@ Através de uma abordagem divertida e educativa, o jogo busca criar um impacto p
 - **JavaScript** – Interatividade e animações.
 
 ---
+## Deploy
+
+O projeto está disponível em [Binary](sthrmzy.github.io/Binary/) para visualização.
 
 
